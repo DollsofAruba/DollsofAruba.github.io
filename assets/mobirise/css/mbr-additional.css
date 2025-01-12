@@ -1514,8 +1514,28 @@ a {
 .cid-uwVtXR04BH .mbr-section-btn {
   color: #d70081;
 }
+.cid-uztXyBHo93 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-uztXyBHo93 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uztXyBHo93 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uztXyBHo93 .content-text {
+  max-width: 800px;
+}
 .cid-uyUQzVAUeS {
-  padding-top: 0rem;
+  padding-top: 1rem;
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
@@ -2361,6 +2381,75 @@ a {
 .cid-uyYuDYcoho .item-title,
 .cid-uyYuDYcoho .mbr-section-btn {
   color: #d70081;
+}
+.cid-uzAlqZ56r5 {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-uzAlqZ56r5 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uzAlqZ56r5 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uzAlqZ56r5 .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
+}
+.cid-uzAlqZ56r5 .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-uzAlqZ56r5 .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-uzAlqZ56r5 .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-uzAlqZ56r5 .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-uzAlqZ56r5 .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-uzAlqZ56r5 .btn-social {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0;
+  width: 72px;
+  height: 72px;
+  line-height: 55px;
+  position: relative;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
+}
+.cid-uzAlqZ56r5 .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
+}
+.cid-uzAlqZ56r5 [class^="socicon-"]:before,
+.cid-uzAlqZ56r5 [class*=" socicon-"]:before {
+  line-height: 55px;
+}
+.cid-uzAlqZ56r5 .mbr-iconfont {
+  width: 72px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  font-size: 32px;
+  transition: all 0.3s ease-in-out;
 }
 .cid-uyUUn0IuC5 {
   padding-top: 0rem;
@@ -3960,29 +4049,6 @@ a {
 .cid-uqIYbeRr16 .mbr-section-btn {
   text-align: center;
 }
-.cid-uqR26kPwHY {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #ffffff;
-}
-.cid-uqR26kPwHY .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uqR26kPwHY .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uqR26kPwHY .mbr-section-title {
-  color: #d70081;
-}
-.cid-uqR26kPwHY .mbr-section-subtitle {
-  color: #000000;
-}
 .cid-urnT7Zqmzu {
   padding-top: 3rem;
   padding-bottom: 1rem;
@@ -4076,7 +4142,7 @@ a {
   color: #000000;
 }
 .cid-uxrHQmU09F {
-  padding-top: 1rem;
+  padding-top: 0rem;
   padding-bottom: 1rem;
   background-color: #edefeb;
 }
